@@ -1,6 +1,8 @@
 <?php 
 
-define("BASE_URL", "http://localhost/mvc/public");
+//base_url untuk mempermudah pemanggilan
+
+define("BASE_URL", "http://localhost/MVC_PHP_NFS/public");
 
 //database
 
